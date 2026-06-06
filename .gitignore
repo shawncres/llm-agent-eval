@@ -21,7 +21,7 @@ workspace/
 *.log
 nohup.out
 
-# Python
+# Python packaging
 *.egg-info/
 dist/
 build/
