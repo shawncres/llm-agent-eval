@@ -1,0 +1,28 @@
+__pycache__/
+*.pyc
+*.pyo
+*.bak
+
+# Generated eval artifacts (regenerate locally)
+eval_reports/*.html
+eval_reports/*.json
+eval_reports/*.md
+eval_reports/latest.html
+
+# Runtime workspace for file CRUD tests
+workspace/
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+
+# Logs and temp
+*.log
+nohup.out
+
+# Python
+*.egg-info/
+dist/
+build/
+.env
